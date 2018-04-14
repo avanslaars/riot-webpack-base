@@ -27,4 +27,20 @@ $ yarn dev
 
 Navigate to [localhost:8080](http://localhost:8080) to view the app.
 
+## Build app
+```bash
+$ npm run build
+$ # or
+$ yarn build
+```
+
+## Validate Prod app
+```bash
+$ npm run serve
+$ # or
+$ yarn serve
+```
+
+Navigate to [localhost:8080](http://localhost:8080) to view the prod app.
+
 > Supports live reload via `webpack-dev-server`
